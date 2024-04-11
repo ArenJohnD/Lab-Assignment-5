@@ -9,8 +9,8 @@ public class DepartmentDA {
     private HashMap<String, Employee> employeeMap;
 
     public DepartmentDA() throws FileNotFoundException {
-        String departmentFilePath = "C:\\Users\\arene\\eclipse-workspace\\LabAssignment5\\src\\labAss5\\dep.csv";
-        String deptEmpFilePath = "C:\\Users\\arene\\eclipse-workspace\\LabAssignment5\\src\\labAss5\\deptemp.csv";
+        String departmentFilePath = "dep.csv";
+        String deptEmpFilePath = "deptemp.csv";
 
         employeeMap = new HashMap<>();
         try (Scanner deptFile = new Scanner(new FileReader(departmentFilePath))) {
