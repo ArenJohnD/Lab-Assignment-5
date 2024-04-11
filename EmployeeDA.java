@@ -10,7 +10,7 @@ public class EmployeeDA {
     }
 
     public EmployeeDA(String empNo, Double salary) throws FileNotFoundException {
-        String employeeFilePath = "C:\\Users\\arene\\eclipse-workspace\\LabAssignment5\\src\\labAss5\\emp.csv";
+        String employeeFilePath = "emp.csv";
 
         try (Scanner employeeFile = new Scanner(new FileReader(employeeFilePath))) {
             employeeFile.nextLine(); // Skip header
