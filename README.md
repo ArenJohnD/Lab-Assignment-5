@@ -44,10 +44,10 @@ You need to create objects that will handle the retrieval of the CSV files to co
 **Department total salary:** 126,000.00
 ```markdown
 --------------------- Details -------------------------
-      EmpNo	   Employee Name	         Salary
-      E123	   Maxwell, John		   30,000.00
-      E125	   Ortiz, Manuel		   51,000.00
-      E124     Delos Reyes, Ernesto    45,000.00
+      EmpNo      Employee Name            Salary
+      E123       Maxwell, John            30,000.00
+      E125       Ortiz, Manuel            51,000.00
+      E124       Delos Reyes, Ernesto     45,000.00
 ```
 ![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/120511fd-db82-4725-9806-b0033720f0c7)
 
