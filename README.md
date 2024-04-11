@@ -10,7 +10,7 @@ HR, Human Resource, 3rd floor
 FNC, Finance, 4th floor
 ```
 The **deptemp.csv** is referenced to get the salary  of the employees per department:
-
+```markdown
 deptCode, empNo, salary
 IT, E123, 30000
 IT, E124, 45000
@@ -20,9 +20,9 @@ HR, E252, 25000
 FNC, E370, 42000
 FNC, E371, 29000
 FNC, E372, 37000
-
+```
 To get the details of the employee you must access the **emp.csv**:
-
+```markdown
 empNo, lastName, firstName, job
 E123, Maxwell, John, Developer
 E124, Delos Reyes, Ernesto, Analyst
@@ -32,7 +32,7 @@ E252, Rosanto, Margareth, HR Specialist
 E370, Baldo, Jason, Team Leader
 E371, Hernandez, Timothy, Junior Accountant
 E372, Cruz, Ricardo, CPA
-
+```
 You need to create objects that will handle the retrieval of the CSV files to convert them into objects.  These are EmployeeDA and EmployeeDA objects.  This will be the execution of the sequence:
 
 ![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/5d60205b-f5b5-438d-a3f9-66f864a84f3e)
@@ -73,7 +73,11 @@ You need to create objects that will handle the retrieval of the CSV files to co
 
 ## Instructions
 **1.** You are not allowed to alter the composition of domain objects. Stick to the provided design.
+
 **2.** Adhere to correct naming conventions for variables and objects.
+
 **3.** Use a hashmap as the solution for the problem.
+
 **4.** Utilize `department.setDepTotalSalary()` to update aggregated values in the object.
+
 **5.** Submit the GitHub solution link provided in NEUVLE.
