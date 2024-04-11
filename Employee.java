@@ -1,5 +1,3 @@
-package labAss5;
-
 public class Employee {
     private String empNo;
     private String lastName;
