@@ -3,12 +3,12 @@ You are required to present a department report that accesses CSV files. You mus
 ![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/9c5997b7-4539-4cc2-be1d-8f301cea021c)
 
 **dep.csv** contains the following:
-
+```markdown
 deptCode, deptName, location
 IT, Information Tech, 2nd floor
 HR, Human Resource, 3rd floor
 FNC, Finance, 4th floor
-
+```
 The **deptemp.csv** is referenced to get the salary  of the employees per department:
 
 deptCode, empNo, salary
@@ -60,7 +60,7 @@ You need to create objects that will handle the retrieval of the CSV files to co
       E251       Natividad, Lisa          66,000.00
 ```
 
-**Department code: FNC**  
+**Department code:** FNC  
 **Department name:** Finance  
 **Department total salary:** 108,000.00
 ```markdown
@@ -77,4 +77,3 @@ You need to create objects that will handle the retrieval of the CSV files to co
 **3.** Use a hashmap as the solution for the problem.
 **4.** Utilize `department.setDepTotalSalary()` to update aggregated values in the object.
 **5.** Submit the GitHub solution link provided in NEUVLE.
-
