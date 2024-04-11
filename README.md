@@ -1,4 +1,4 @@
-You are required to present a department report that accesses CSV files. You must put the data on the domain composition of the objects.
+**You are required to present a department report that accesses CSV files. You must put the data on the domain composition of the objects.**
 
 ![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/9c5997b7-4539-4cc2-be1d-8f301cea021c)
 
@@ -33,7 +33,7 @@ E370, Baldo, Jason, Team Leader
 E371, Hernandez, Timothy, Junior Accountant
 E372, Cruz, Ricardo, CPA
 ```
-You need to create objects that will handle the retrieval of the CSV files to convert them into objects.  These are EmployeeDA and EmployeeDA objects.  This will be the execution of the sequence:
+**You need to create objects that will handle the retrieval of the CSV files to convert them into objects.  These are EmployeeDA and EmployeeDA objects.  This will be the execution of the sequence:**
 
 ![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/5d60205b-f5b5-438d-a3f9-66f864a84f3e)
 
