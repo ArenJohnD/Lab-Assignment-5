@@ -1,3 +1,4 @@
+```markdown
 You are required to present a department report that accesses CSV files. You must put the data on the domain composition of the objects.
 
 ![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/9c5997b7-4539-4cc2-be1d-8f301cea021c)
@@ -43,36 +44,37 @@ You need to create objects that will handle the retrieval of the CSV files to co
 **Department name:** Information Tech  
 **Department total salary:** 126,000.00
 
----------------------Details -------------------------
-     EmpNo	   Employee Name	         Salary
-     E123	   Maxwell, John		   30,000.00
-     E125	   Ortiz, Manuel		   51,000.00
-     E124      Delos Reyes, Ernesto	   45,000.00
+--------------------- Details -------------------------
+      EmpNo	Employee Name	         Salary
+      E123	Maxwell, John		    30,000.00
+      E125	Ortiz, Manuel		    51,000.00
+      E124     Delos Reyes, Ernesto    45,000.00
 
-![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/b5864189-0fcb-420a-b6ae-b6f93d167539)
+![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/120511fd-db82-4725-9806-b0033720f0c7)
 
 **Department code:** HR  
 **Department name:** Human Resource  
 **Department total salary:** 91,000.00  
 
----------------------Details -------------------------
-     EmpNo	   Employee Name	         Salary
-     E252	   Rosanto, Margareth	   25,000.00
-     E251      Natividad, Lisa	   66,000.00
+--------------------- Details -------------------------
+      EmpNo	Employee Name	         Salary
+      E252	Rosanto, Margareth	    25,000.00
+      E251     Natividad, Lisa	    66,000.00
 
-![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/0066e3fc-245b-4c84-9a0e-e6c060c8202c)
+![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/a780bc45-5adb-4061-8e00-4ca62bb2a7f4)
 
 **Department code: FNC**  
 **Department name:** Finance  
 **Department total salary:** 108,000.00  
 
----------------------Details -------------------------
-     EmpNo     Employee Name	         Salary
-     E370	   Baldo, Jason		   42,000.00
-     E371	   Hernandez, Timothy	   29,000.00
-     E372	   Cruz, Ricardo		   37,000.00
+--------------------- Details -------------------------
+      EmpNo    Employee Name	         Salary
+      E370	Baldo, Jason		    42,000.00
+      E371	Hernandez, Timothy	    29,000.00
+      E372	Cruz, Ricardo		    37,000.00
 
-![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/d96b44ed-9ae2-4e56-acdd-1943d0c07f5a)
+![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/e60b176a-0588-4b96-9956-f5586b17f4ac)
+
 
 ## Instructions
 **1.** You are not allowed to alter the composition of domain objects. Stick to the provided design.
@@ -80,3 +82,4 @@ You need to create objects that will handle the retrieval of the CSV files to co
 **3.** Use a hashmap as the solution for the problem.
 **4.** Utilize `department.setDepTotalSalary()` to update aggregated values in the object.
 **5.** Submit the GitHub solution link provided in NEUVLE.
+```
