@@ -59,7 +59,6 @@ You need to create objects that will handle the retrieval of the CSV files to co
       E252       Rosanto, Margareth       25,000.00
       E251       Natividad, Lisa          66,000.00
 ```
-![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/a780bc45-5adb-4061-8e00-4ca62bb2a7f4)
 
 **Department code: FNC**  
 **Department name:** Finance  
@@ -71,8 +70,6 @@ You need to create objects that will handle the retrieval of the CSV files to co
       E371       Hernandez, Timothy       29,000.00
       E372       Cruz, Ricardo            37,000.00
 ```
-![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/e60b176a-0588-4b96-9956-f5586b17f4ac)
-
 
 ## Instructions
 **1.** You are not allowed to alter the composition of domain objects. Stick to the provided design.
