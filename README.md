@@ -39,7 +39,7 @@ You need to create objects that will handle the retrieval of the CSV files to co
 
 ## Sample Generated Report
 
-**Department code: IT**  
+**Department code:** IT  
 **Department name:** Information Tech  
 **Department total salary:** 126,000.00
 ```markdown
