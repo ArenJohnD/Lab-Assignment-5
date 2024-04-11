@@ -1,4 +1,4 @@
-You are required to present a department report that accesses csv files. You must put the data on the domain composition of the objects.
+You are required to present a department report that accesses CSV files. You must put the data on the domain composition of the objects.
 
 ![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/9c5997b7-4539-4cc2-be1d-8f301cea021c)
 
@@ -33,7 +33,7 @@ E370, Baldo, Jason, Team Leader
 E371, Hernandez, Timothy, Junior Accountant
 E372, Cruz, Ricardo, CPA
 
-You need to create objects that will handle the retrieval of the csv files to convert it into objects.  These are EmployeeDA and EmployeeDA objects.  This will be the execution of the sequence:
+You need to create objects that will handle the retrieval of the CSV files to convert them into objects.  These are EmployeeDA and EmployeeDA objects.  This will be the execution of the sequence:
 
 ![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/5d60205b-f5b5-438d-a3f9-66f864a84f3e)
 
@@ -44,33 +44,39 @@ You need to create objects that will handle the retrieval of the csv files to co
 **Department total salary:** 126,000.00
 
 ---------------------Details -------------------------
-      EmpNo		  Employee Name	          Salary
-      E123		  Maxwell, John			      30,000.00
-      E125		  Ortiz, Manuel			      51,000.00
-      E124		  Delos Reyes, Ernesto	  45,000.00
+     EmpNo	   Employee Name	         Salary
+     E123	   Maxwell, John		   30,000.00
+     E125	   Ortiz, Manuel		   51,000.00
+     E124      Delos Reyes, Ernesto	   45,000.00
 
-**Department code: HR**  
+![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/b5864189-0fcb-420a-b6ae-b6f93d167539)
+
+**Department code:** HR  
 **Department name:** Human Resource  
 **Department total salary:** 91,000.00  
 
 ---------------------Details -------------------------
-      EmpNo		  Employee Name	         Salary
-      E252		  Rosanto, Margareth		 25,000.00
-      E251		  Natividad, Lisa		     66,000.00
+     EmpNo	   Employee Name	         Salary
+     E252	   Rosanto, Margareth	   25,000.00
+     E251      Natividad, Lisa	   66,000.00
+
+![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/0066e3fc-245b-4c84-9a0e-e6c060c8202c)
 
 **Department code: FNC**  
 **Department name:** Finance  
 **Department total salary:** 108,000.00  
 
 ---------------------Details -------------------------
-      EmpNo		  Employee Name	         Salary
-      E370		  Baldo, Jason			     42,000.00
-      E371		  Hernandez, Timothy		 29,000.00
-      E372		  Cruz, Ricardo			     37,000.00
+     EmpNo     Employee Name	         Salary
+     E370	   Baldo, Jason		   42,000.00
+     E371	   Hernandez, Timothy	   29,000.00
+     E372	   Cruz, Ricardo		   37,000.00
+
+![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/d96b44ed-9ae2-4e56-acdd-1943d0c07f5a)
 
 ## Instructions
-1. You are not allowed to alter the composition of domain objects. Stick to the provided design.
-2. Adhere to correct naming conventions for variables and objects.
-3. Use hashmap as the solution for the problem.
-4. Utilize `department.setDepTotalSalary()` to update aggregated values in the object.
-5. Submit the GitHub solution link provided in NEUVLE.
+**1.** You are not allowed to alter the composition of domain objects. Stick to the provided design.
+**2.** Adhere to correct naming conventions for variables and objects.
+**3.** Use a hashmap as the solution for the problem.
+**4.** Utilize `department.setDepTotalSalary()` to update aggregated values in the object.
+**5.** Submit the GitHub solution link provided in NEUVLE.
