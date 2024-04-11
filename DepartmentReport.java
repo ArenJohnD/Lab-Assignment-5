@@ -1,7 +1,5 @@
 import java.io.FileNotFoundException;
 
-import java.io.FileNotFoundException;
-
 public class DepartmentReport {
     public DepartmentReport() throws FileNotFoundException {
         DepartmentDA departmentDA = new DepartmentDA();
