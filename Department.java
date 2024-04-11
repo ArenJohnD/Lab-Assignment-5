@@ -1,5 +1,3 @@
-package labAss5;
-
 import java.util.HashMap;
 
 public class Department {
