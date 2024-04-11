@@ -49,29 +49,28 @@ You need to create objects that will handle the retrieval of the CSV files to co
       E125       Ortiz, Manuel            51,000.00
       E124       Delos Reyes, Ernesto     45,000.00
 ```
-![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/120511fd-db82-4725-9806-b0033720f0c7)
 
 **Department code:** HR  
 **Department name:** Human Resource  
 **Department total salary:** 91,000.00  
-
+```markdown
 --------------------- Details -------------------------
-      EmpNo	Employee Name	         Salary
-      E252	Rosanto, Margareth	    25,000.00
-      E251     Natividad, Lisa	    66,000.00
-
+      EmpNo      Employee Name            Salary
+      E252       Rosanto, Margareth       25,000.00
+      E251       Natividad, Lisa          66,000.00
+```
 ![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/a780bc45-5adb-4061-8e00-4ca62bb2a7f4)
 
 **Department code: FNC**  
 **Department name:** Finance  
-**Department total salary:** 108,000.00  
-
+**Department total salary:** 108,000.00
+```markdown
 --------------------- Details -------------------------
-      EmpNo    Employee Name	         Salary
-      E370	Baldo, Jason		    42,000.00
-      E371	Hernandez, Timothy	    29,000.00
-      E372	Cruz, Ricardo		    37,000.00
-
+      EmpNo      Employee Name            Salary
+      E370       Baldo, Jason             42,000.00
+      E371       Hernandez, Timothy       29,000.00
+      E372       Cruz, Ricardo            37,000.00
+```
 ![image](https://github.com/ArenJohnD/Lab-Assignment-5/assets/152838648/e60b176a-0588-4b96-9956-f5586b17f4ac)
 
 
